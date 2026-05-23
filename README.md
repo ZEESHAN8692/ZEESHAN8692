@@ -2,86 +2,54 @@
 
 # Hi, I'm ZEESHAN KHAN
 
-### MERN Stack Developer | Building fast, clean, and scalable web apps
+### Backend-Focused MERN Developer
 
-I create modern full-stack applications with MongoDB, Express.js, React, and Node.js.
-I enjoy turning ideas into polished products with thoughtful UI, reliable APIs, and maintainable code.
-
-<p>
-  <a href="https://github.com/ZEESHAN8692">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I build scalable server-side applications, efficient REST APIs, and robust database architectures.
 
 </div>
 
 ---
 
-## About Me
+## What I Do
 
-- MERN Stack Developer focused on responsive, production-ready web applications.
-- Comfortable building REST APIs, authentication flows, dashboards, admin panels, and real-time features.
-- I care about clean code, reusable components, performance, and a smooth user experience.
-- Currently improving my skills in advanced React patterns, backend architecture, and deployment workflows.
+- **Backend Architecture** – Scalable Node.js + Express.js servers
+- **Database Design** – MongoDB schema modeling & optimization
+- **API Development** – RESTful endpoints with proper validation & error handling  
+- **Authentication** – JWT, OAuth, session management
+- **System Integration** – Connecting frontend, third-party services, and databases
 
 ---
 
-## Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
+## Backend Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database & Tools
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+## Also Working With
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZEESHAN8692&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Contact-Email-0e75b6?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
+
 <div align="center">
 
-### Thanks for visiting my profile
-
-Clean code. Strong UI. Reliable backend. Better products.
+*Clean APIs | Efficient Databases | Scalable Systems*
 
 </div>
