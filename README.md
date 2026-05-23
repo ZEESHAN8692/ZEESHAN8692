@@ -43,7 +43,7 @@ I build scalable server-side applications, efficient REST APIs, and robust datab
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZEESHAN8692&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:zeeshanrazakhan78@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-0e75b6?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
