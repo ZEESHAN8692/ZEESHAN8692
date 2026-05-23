@@ -62,47 +62,7 @@ I enjoy turning ideas into polished products with thoughtful UI, reliable APIs, 
 
 ---
 
-## What I Build
 
-| Area | Experience |
-| --- | --- |
-| Frontend | React apps, reusable components, responsive layouts, forms, dashboards |
-| Backend | Node.js APIs, Express routing, middleware, authentication, validation |
-| Database | MongoDB schemas, Mongoose models, CRUD operations, data relationships |
-| Full Stack | MERN applications, protected routes, API integration, deployment-ready structure |
-
----
-
-## Featured Projects
-
-### Project One
-
-A modern MERN application with authentication, dashboard views, and clean API architecture.
-
-- Tech: React, Node.js, Express.js, MongoDB
-- Features: Login/signup, CRUD operations, protected routes, responsive UI
-- Repository: [View Code](https://github.com/USERNAME/project-one)
-- Live Demo: [Open App](https://your-demo-link.com)
-
-### Project Two
-
-A full-stack web app focused on performance, usability, and maintainable component structure.
-
-- Tech: React, Tailwind CSS, Express.js, MongoDB
-- Features: Search, filtering, API integration, admin workflow
-- Repository: [View Code](https://github.com/USERNAME/project-two)
-- Live Demo: [Open App](https://your-demo-link.com)
-
-### Project Three
-
-A backend-driven application with secure routes, structured database models, and RESTful APIs.
-
-- Tech: Node.js, Express.js, MongoDB, JWT
-- Features: Authentication, authorization, validation, error handling
-- Repository: [View Code](https://github.com/USERNAME/project-three)
-- Live Demo: [Open App](https://your-demo-link.com)
-
----
 
 ## GitHub Analytics
 
