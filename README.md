@@ -60,31 +60,7 @@ I enjoy turning ideas into polished products with thoughtful UI, reliable APIs, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-## Current Focus
-
-- Building full-stack MERN projects with clean architecture.
-- Improving API security, performance, and deployment practices.
-- Creating user-friendly interfaces with React and Tailwind CSS.
-- Learning more about scalable backend design and cloud deployment.
-
----
 
 ## Connect With Me
 
